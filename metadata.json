@@ -1,0 +1,5 @@
+{
+  "name": " Chat Pro",
+  "description": "A high-fidelity, full-stack inspired AI chatbot application featuring persistent history, markdown support, and real-time Gemini 3 streaming.",
+  "requestFramePermissions": []
+}
